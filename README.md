@@ -23,6 +23,7 @@ Note: API keys have been removed from source, so project will not build. For a w
 
 Initial screen, with instructions, shown at every load
 
+<img src="screenshots/screenshot1.png" width="320"/>
 
 
 Plotting a route. All point are numbered, and route can be undone in reverse order, or a new route started.
