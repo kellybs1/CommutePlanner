@@ -22,14 +22,19 @@ Note: API keys have been removed from source, so project will not build. For a w
 ### Screenshots
 
 Initial screen, with instructions, shown at every load
+
 <img src="screenshots/screenshot1.png" width="320"/>
 
 
+
 Plotting a route. All point are numbered, and route can be undone in reverse order, or a new route started.
+
 <img src="screenshots/screenshot2.png" width="320"/>
 
 
+
 Loads traffic incident data from the Bing Maps Traffic API (https://msdn.microsoft.com/en-us/library/hh441726.aspx)
+
 <img src="screenshots/screenshot3.png" width="320"/>
 
 
