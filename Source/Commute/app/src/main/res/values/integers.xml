@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="LOCATION_REQUEST_CODE">47</integer>
+    <integer name="MAP_MOVE_ANIM_DURATION">400</integer>
+    <integer name="COMMUTE_AREA_NSIDES">4</integer>
+</resources>

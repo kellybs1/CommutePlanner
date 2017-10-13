@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Commute</string>
+    <string name="better_app_name">Traffickr</string>
+    <string name="title_activity_maps">Commute Planner</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New Route</string>
+    <string name="action_undo">Undo point</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="confirm_new_route">Are you sure you want to start a new route?</string>
+    <string name="confirm_new_route_title">Start new route</string>
+    <string name="confirm_end_route">Are you sure you want to get traffic info?</string>
+    <string name="confirm_end_route_title">Get traffic data</string>
+    <string name="key_sthlat"></string>
+    <string name="key_nthlat"></string>
+    <string name="key_wstlng"></string>
+    <string name="key_estlng"></string>
+    <string name="api_key_bing_maps">removed for security</string>
+    <string name="no_incidents_found">No traffic incidents found</string>
+    <string name="road_not_open">Road closed</string>
+    <string name="road_open">Road open</string>
+    <string name="key_bundle_incidents">incident_bundled</string>
+    <string name="title_results_dialogue">Incidents in this area</string>
+    <string name="title_about_dialogue">About this app</string>
+    <string name="loading_json">Fetching traffic data...</string>
+    <string name="main_marker_info">Tap the map to move me, then tap Add button</string>
+    <string name="title_route_too_short">Route too short</string>
+    <string name="msg_route_too_short">You must add more points before checking</string>
+</resources>
